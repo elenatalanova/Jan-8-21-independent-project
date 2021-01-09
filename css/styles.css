@@ -27,7 +27,15 @@
   font-weight: bold;
 }
 
+img {
+  border-radius: 50%;
+}
+
 .box {
-  border:rgb(3, 3, 3)
-  background-color: rgba(136, 237, 255, 0.534);
+  width: 80%;
+  border: solid black;
+  border-width: 1px;
+  background-color: rgb(146, 199, 241);
+  margin-bottom: 50px;
+  margin-top: 10px;
 }
