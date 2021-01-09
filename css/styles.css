@@ -3,6 +3,10 @@
   height: auto;
 }
 
+img {
+  border-radius: 50%;
+}
+
 .important {
   color: #009900;
 }
@@ -27,10 +31,6 @@
   font-weight: bold;
 }
 
-img {
-  border-radius: 50%;
-}
-
 .box {
   width: 80%;
   border: solid black;
@@ -38,4 +38,33 @@ img {
   background-color: rgb(161, 205, 241);
   margin-bottom: 50px;
   margin-top: 10px;
+}
+
+.column1 {
+  width: 3%;
+  height: auto;
+}
+
+.column2 {
+  width: 5000px;
+  height: auto;
+  float: left;
+}
+
+.column3 {
+  width: 6000px;
+  height: auto;
+  float: right;
+}
+
+.column4 {
+  width: 1000px;
+  height: auto;
+  float: right;
+}
+
+.skills {
+  width: 10%;
+  height: auto;
+  float: left;
 }
