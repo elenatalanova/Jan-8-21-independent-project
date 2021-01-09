@@ -16,9 +16,9 @@
 }
 
 .my-class {
-  margin: 60px;
-  border: 2px rgb(3, 3, 3);
-  padding: 4px;
+  margin: 50px;
+  border-width: 50px solid black;
+  padding: 20px;
   background-color: rgb(230, 230, 230);
 }
 
@@ -35,7 +35,7 @@ img {
   width: 80%;
   border: solid black;
   border-width: 1px;
-  background-color: rgb(146, 199, 241);
+  background-color: rgb(161, 205, 241);
   margin-bottom: 50px;
   margin-top: 10px;
 }
