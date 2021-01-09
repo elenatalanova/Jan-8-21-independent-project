@@ -1,0 +1,33 @@
+.centered-image {
+  width: 50%;
+  height: auto;
+}
+
+.important {
+  color: #009900;
+}
+
+.highlight {
+  color: #e62e00;
+}
+
+.sports {
+  font-style: italic;
+}
+
+.my-class {
+  margin: 60px;
+  border: 2px rgb(3, 3, 3);
+  padding: 4px;
+  background-color: rgb(230, 230, 230);
+}
+
+.author {
+  width: 45%;
+  font-weight: bold;
+}
+
+.box {
+  border:rgb(3, 3, 3)
+  background-color: rgba(136, 237, 255, 0.534);
+}
