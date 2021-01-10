@@ -39,32 +39,3 @@ img {
   margin-bottom: 50px;
   margin-top: 10px;
 }
-
-.column1 {
-  width: 3%;
-  height: auto;
-}
-
-.column2 {
-  width: 5000px;
-  height: auto;
-  float: left;
-}
-
-.column3 {
-  width: 6000px;
-  height: auto;
-  float: right;
-}
-
-.column4 {
-  width: 1000px;
-  height: auto;
-  float: right;
-}
-
-.skills {
-  width: 10%;
-  height: auto;
-  float: left;
-}
