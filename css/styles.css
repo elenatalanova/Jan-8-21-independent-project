@@ -8,7 +8,7 @@ img {
 }
 
 .important {
-  color: #009900;
+  color: #6d4406;
 }
 
 .highlight {
@@ -27,7 +27,7 @@ img {
 }
 
 .author {
-  width: 45%;
+  width: 80%;
   font-weight: bold;
 }
 
@@ -38,4 +38,11 @@ img {
   background-color: rgb(161, 205, 241);
   margin-bottom: 50px;
   margin-top: 10px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  border-radius: 20%;
+  margin-top: 40px;
 }
