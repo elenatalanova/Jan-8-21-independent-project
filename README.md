@@ -13,7 +13,7 @@ This is the first web-development experience in my life. I have created a web-pa
 
 ## Link to the GitHub Pages
 
-https://github.com/elenatalanova/Jan-8-21-independent-project/tree/gh-pages
+https://elenatalanova.github.io/Jan-8-21-independent-project/
 
 ### Contact information
 
